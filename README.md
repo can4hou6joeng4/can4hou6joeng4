@@ -14,8 +14,12 @@
 </h3>
 
 <div align="center">
-- 👨‍💻 关于我：<a href="https://blog.bobochang.work" target="_blank">广州的辛勤码农</a>
-- 🏡 作品：<a href="https://github.com/bobochangzzz/bobochangAPI-backend" target="_blank">API接口开发平台</a> | <a href="https://friend.bobochang.work" target="_blank">聚焦园</a> 
+  <div align="center">
+👨‍💻 关于我：<a href="https://blog.bobochang.work" target="_blank">广州的辛勤码农</a>
+  </div>
+  <div align="center">
+🏡 作品：<a href="https://github.com/bobochangzzz/bobochangAPI-backend" target="_blank">API接口开发平台</a> | <a href="https://friend.bobochang.work" target="_blank">聚焦园</a> 
+  </div>
 </div>
 
 <h2 align="center">今年汇总 ✨</h2>
