@@ -1,29 +1,27 @@
-<h1 align="center">
-如果你连一台Mac都没有那我认为你不配写代码 &nbsp;&nbsp;&nbsp;
-</h1>
+### Hi there is bobochang👋
 
-<p align="center">
-<img src="https://i.imgur.com/6fH0QkL.jpg" alt="点击开喷" width="50%"/>
+> 好的代码是一种艺术，而不是一种技术
+>
+> 在一个崇高的目标支持下，不停地工作，即使慢，也一定会获得成功。 —— 爱因斯坦
+
+- 📮 can4hou6joeng4@163.com
+- 📖 https://juejin.cn/user/1187904004821262
+
+<table border=0>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=bobochangzzz&show_icons=true&count_private=true&theme=vue-light&hide_border=true" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1187904004821262&hide_border=true" style="zoom:100%;" align="left"/></td>
+  </tr>
+</table>
+
+
+### Pinned Projects
+
+<p>
+  <a href="https://github.com/HuiDBK/py-tools">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobochangzzz&repo=bobochangAPI-frontend&theme=vue-light" />
+  </a>
+   <a href="https://github.com/HuiDBK/WordSprite">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobochangzzz&repo=bobochangAPI-backend&theme=vue-light" />
+  </a>
 </p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/21078112/163754171-0e917f6d-22e9-4add-8705-b664d12949a6.gif" width="30%" />
-</p>
-<h3 align="center">
-不要当舔狗, 这是我能给你最好的建议
-</h3>
-
-<div align="center">
-  <div align="center">
-👨‍💻 关于我：<a href="https://blog.bobochang.work" target="_blank">广州的辛勤码农</a>
-  </div>
-  <div align="center">
-🏡 作品：<a href="https://github.com/bobochangzzz/bobochangAPI-backend" target="_blank">API接口开发平台</a> | <a href="https://friend.bobochang.work" target="_blank">聚焦园</a> 
-  </div>
-</div>
-
-<h2 align="center">今年汇总 ✨</h2>
-<div align="center">
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=bobochangzzz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img alizgn="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobochangzzz&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</div>
-
