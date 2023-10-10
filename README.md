@@ -17,11 +17,17 @@
 
 ### Pinned Projects
 
-<p>
-  <a href="https://github.com/HuiDBK/py-tools">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobochangzzz&repo=bobochangAPI-frontend&theme=vue-light" />
+<table>
+<tr>
+  <td>
+  <a href="https://github.com/bobochangzzz/bobochangAPI-frontend">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobochangzzz&repo=bobochangAPI-frontend&theme=vue-light" style="zoom:100%;" align="letf"/>
   </a>
-   <a href="https://github.com/HuiDBK/WordSprite">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobochangzzz&repo=bobochangAPI-backend&theme=vue-light" />
+  </td>
+  <td>
+   <a href="https://github.com/bobochangzzz/bobochangAPI-backend">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobochangzzz&repo=bobochangAPI-backend&theme=vue-light" style="zoom:100%;" align="letf"/>
   </a>
-</p>
+  </td>
+</tr>
+</table>
