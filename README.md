@@ -6,6 +6,7 @@
 
 - 📮 can4hou6joeng4@163.com
 - 📖 https://juejin.cn/user/1187904004821262
+- https://can4hou6joeng4.shoply.id
 
 ## 今年汇总 ✨
 
