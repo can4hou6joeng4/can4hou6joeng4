@@ -11,7 +11,7 @@ I build agent-first automation tools, CLI products, and practical developer work
 [![Blog](https://img.shields.io/badge/Tech_Blog-Juejin-1e80ff?style=for-the-badge)](https://juejin.cn/user/1187904004821262)
 
 <a href="https://checkmygit.com/can4hou6joeng4?template=bento">
-  <img src="./assets/checkmygit-bento-preview.svg" alt="Bobochang CheckMyGit Bento portfolio preview" width="100%" />
+  <img src="./assets/checkmygit-bento-preview.svg" alt="Bobochang CheckMyGit Bento portfolio preview" width="860" />
 </a>
 
 </div>

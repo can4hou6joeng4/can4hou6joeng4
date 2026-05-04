@@ -1,73 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="360" viewBox="0 0 920 360" role="img" aria-labelledby="title desc">
   <title id="title">Bobochang CheckMyGit Bento portfolio preview</title>
-  <desc id="desc">A static Bento-style preview for Bobochang's interactive GitHub portfolio.</desc>
+  <desc id="desc">A compact static Bento-style preview for Bobochang's interactive GitHub portfolio.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="0.52" stop-color="#111827"/>
-      <stop offset="1" stop-color="#052e2b"/>
+      <stop offset="0.58" stop-color="#111827"/>
+      <stop offset="1" stop-color="#07362f"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#58a6ff"/>
       <stop offset="1" stop-color="#2ea043"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.35"/>
-    </filter>
     <style>
       .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-      .card { fill: rgba(22, 27, 34, 0.92); stroke: rgba(139, 148, 158, 0.22); stroke-width: 1; }
+      .shell { fill: rgba(13, 17, 23, 0.72); stroke: rgba(88, 166, 255, 0.18); stroke-width: 1; }
+      .card { fill: rgba(22, 27, 34, 0.95); stroke: rgba(139, 148, 158, 0.25); stroke-width: 1; }
       .muted { fill: #8b949e; }
       .text { fill: #f0f6fc; }
       .green { fill: #3fb950; }
       .blue { fill: #58a6ff; }
       .orange { fill: #f78166; }
+      .rule { stroke: rgba(139, 148, 158, 0.2); stroke-width: 1; }
     </style>
   </defs>
 
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <path d="M0 500 C230 425 330 610 540 545 C750 480 790 350 1005 400 C1105 424 1150 455 1200 430 L1200 630 L0 630 Z" fill="#0a362f" opacity="0.52"/>
-  <circle cx="1020" cy="90" r="120" fill="#1f6feb" opacity="0.08"/>
-  <circle cx="240" cy="560" r="170" fill="#2ea043" opacity="0.08"/>
+  <rect width="920" height="360" rx="18" fill="url(#bg)"/>
+  <path d="M0 300 C120 250 220 338 360 306 C500 274 590 220 740 252 C820 269 870 300 920 278 L920 360 L0 360 Z" fill="#0a362f" opacity="0.45"/>
 
-  <g filter="url(#shadow)">
-    <rect x="70" y="64" width="1060" height="502" rx="28" fill="rgba(13,17,23,0.72)" stroke="rgba(88,166,255,0.18)"/>
+  <rect x="34" y="34" width="852" height="292" rx="20" class="shell"/>
 
-    <rect x="105" y="100" width="400" height="230" rx="22" class="card"/>
-    <circle cx="165" cy="160" r="34" fill="url(#accent)"/>
-    <text x="215" y="151" class="sans text" font-size="32" font-weight="700">Bobochang</text>
-    <text x="215" y="183" class="sans muted" font-size="18">AI Agent Developer</text>
-    <text x="130" y="230" class="sans text" font-size="20" font-weight="600">Building agent-first automation tools</text>
-    <text x="130" y="263" class="sans muted" font-size="17">CLI products, MCP workflows, and open-source</text>
-    <text x="130" y="291" class="sans muted" font-size="17">systems with reproducible operating contracts.</text>
+  <g transform="translate(64 64)">
+    <rect x="0" y="0" width="300" height="136" rx="16" class="card"/>
+    <circle cx="42" cy="48" r="26" fill="url(#accent)"/>
+    <text x="84" y="42" class="sans text" font-size="26" font-weight="760">Bobochang</text>
+    <text x="84" y="70" class="sans muted" font-size="15">AI Agent Developer</text>
+    <line x1="26" y1="92" x2="274" y2="92" class="rule"/>
+    <text x="26" y="120" class="sans text" font-size="17" font-weight="650">Agent-first automation tools</text>
 
-    <rect x="535" y="100" width="260" height="230" rx="22" class="card"/>
-    <text x="560" y="145" class="sans blue" font-size="18" font-weight="700">Main Project</text>
-    <text x="560" y="188" class="sans text" font-size="30" font-weight="800">boss-agent-cli</text>
-    <text x="560" y="228" class="sans muted" font-size="17">AI-agent-first CLI for</text>
-    <text x="560" y="255" class="sans muted" font-size="17">job search automation</text>
-    <text x="560" y="297" class="sans green" font-size="30" font-weight="800">160 stars</text>
+    <rect x="326" y="0" width="214" height="136" rx="16" class="card"/>
+    <text x="350" y="36" class="sans blue" font-size="15" font-weight="750">Main project</text>
+    <text x="350" y="73" class="sans text" font-size="25" font-weight="800">boss-agent-cli</text>
+    <text x="350" y="112" class="sans green" font-size="24" font-weight="800">160 stars</text>
 
-    <rect x="825" y="100" width="270" height="230" rx="22" class="card"/>
-    <text x="850" y="145" class="sans orange" font-size="18" font-weight="700">Open Source</text>
-    <text x="850" y="190" class="sans text" font-size="28" font-weight="800">Maintainer</text>
-    <text x="850" y="230" class="sans muted" font-size="17">Docs, CI guardrails,</text>
-    <text x="850" y="257" class="sans muted" font-size="17">smoke tests, releases,</text>
-    <text x="850" y="284" class="sans muted" font-size="17">and contributor flows.</text>
+    <rect x="566" y="0" width="226" height="136" rx="16" class="card"/>
+    <text x="590" y="36" class="sans orange" font-size="15" font-weight="750">Open source</text>
+    <text x="590" y="74" class="sans text" font-size="24" font-weight="800">Maintainer</text>
+    <text x="590" y="108" class="sans muted" font-size="15">Docs · CI · releases</text>
 
-    <rect x="105" y="360" width="305" height="170" rx="22" class="card"/>
-    <text x="130" y="405" class="sans blue" font-size="18" font-weight="700">Stack</text>
-    <text x="130" y="448" class="sans text" font-size="24" font-weight="700">Python · TypeScript · Go</text>
-    <text x="130" y="485" class="sans muted" font-size="18">Swift · Java · Svelte · Vue</text>
+    <rect x="0" y="164" width="247" height="94" rx="16" class="card"/>
+    <text x="24" y="200" class="sans blue" font-size="15" font-weight="750">Stack</text>
+    <text x="24" y="232" class="sans text" font-size="18" font-weight="700">Python · TypeScript · Go</text>
 
-    <rect x="445" y="360" width="305" height="170" rx="22" class="card"/>
-    <text x="470" y="405" class="sans green" font-size="18" font-weight="700">Projects</text>
-    <text x="470" y="448" class="sans text" font-size="23" font-weight="700">Legal extraction, interview</text>
-    <text x="470" y="485" class="sans muted" font-size="18">prep, sign-in automation, tools.</text>
+    <rect x="273" y="164" width="247" height="94" rx="16" class="card"/>
+    <text x="297" y="200" class="sans green" font-size="15" font-weight="750">Projects</text>
+    <text x="297" y="232" class="sans text" font-size="18" font-weight="700">Legal · interview · automation</text>
 
-    <rect x="785" y="360" width="310" height="170" rx="22" fill="url(#accent)" opacity="0.95"/>
-    <text x="815" y="416" class="sans" fill="#ffffff" font-size="20" font-weight="700">Interactive Portfolio</text>
-    <text x="815" y="458" class="sans" fill="#ffffff" font-size="28" font-weight="800">CheckMyGit Bento</text>
-    <text x="815" y="494" class="sans" fill="#e6fffb" font-size="17">checkmygit.com/can4hou6joeng4</text>
+    <rect x="546" y="164" width="246" height="94" rx="16" fill="url(#accent)"/>
+    <text x="570" y="202" class="sans" fill="#ffffff" font-size="15" font-weight="750">Interactive portfolio</text>
+    <text x="570" y="236" class="sans" fill="#ffffff" font-size="22" font-weight="800">CheckMyGit Bento</text>
   </g>
 </svg>
