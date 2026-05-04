@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/avatar.png" alt="Bobochang avatar" width="96" />
+
 # Hi, I'm Bobochang
 
 **AI Agent Developer** | **Full Stack Engineer** | **Open Source Maintainer**
