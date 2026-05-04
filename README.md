@@ -107,9 +107,7 @@ I build agent-first automation tools, CLI products, and practical developer work
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=can4hou6joeng4&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=can4hou6joeng4&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="./assets/github-snapshot.svg" alt="Bobochang GitHub snapshot" width="100%" />
 
 </div>
 
@@ -129,9 +127,7 @@ I build agent-first automation tools, CLI products, and practical developer work
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:can4hou6joeng4@163.com)
 [![Juejin](https://img.shields.io/badge/Juejin-1E80FF?style=flat&logo=juejin&logoColor=white)](https://juejin.cn/user/1187904004821262)
-[![Portfolio](https://img.shields.io/badge/Portfolio-CheckMyGit-0969da?style=flat&logo=github&logoColor=white)](https://checkmygit.com/can4hou6joeng4?template=bento)
-
-**[View my interactive GitHub portfolio](https://checkmygit.com/can4hou6joeng4?template=bento)**
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-CheckMyGit-0969da?style=flat&logo=github&logoColor=white)](https://checkmygit.com/can4hou6joeng4?template=bento)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=can4hou6joeng4&color=0969da&style=flat)
 
