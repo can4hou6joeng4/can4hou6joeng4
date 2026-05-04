@@ -10,6 +10,10 @@ I build agent-first automation tools, CLI products, and practical developer work
 [![Main Project](https://img.shields.io/badge/Main_Project-boss--agent--cli-238636?style=for-the-badge&logo=python)](https://github.com/can4hou6joeng4/boss-agent-cli)
 [![Blog](https://img.shields.io/badge/Tech_Blog-Juejin-1e80ff?style=for-the-badge)](https://juejin.cn/user/1187904004821262)
 
+<a href="https://checkmygit.com/can4hou6joeng4?template=bento">
+  <img src="./assets/checkmygit-bento-preview.svg" alt="Bobochang CheckMyGit Bento portfolio preview" width="100%" />
+</a>
+
 </div>
 
 ---
@@ -20,6 +24,33 @@ I build agent-first automation tools, CLI products, and practical developer work
 - Designing automation tools that preserve explicit contracts: reproducible commands, machine-readable output, safe dry runs, and clear failure modes.
 - Shipping open-source projects with practical documentation, CI guardrails, issue templates, and maintainer workflows.
 - Based in Guangzhou, China, and open to collaboration around AI agents, CLI tools, MCP, workflow automation, and developer tooling.
+
+---
+
+## Bento Snapshot
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>AI Agent Tooling</h3>
+      <p>Designing CLIs and MCP-facing tools that agents can operate through explicit, reproducible command contracts.</p>
+    </td>
+    <td width="50%">
+      <h3>Workflow Automation</h3>
+      <p>Turning repeated job-search, document, smoke-test, and release workflows into maintainable automation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Open Source Quality</h3>
+      <p>Maintaining docs, templates, CI checks, release hygiene, and contributor paths for practical public projects.</p>
+    </td>
+    <td width="50%">
+      <h3>Full Stack Delivery</h3>
+      <p>Building across Python, TypeScript, Go, Swift, Java, web frontends, desktop apps, and GitHub-native tooling.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,6 +71,16 @@ I build agent-first automation tools, CLI products, and practical developer work
 - **Workflow automation**: repeatable scripts, smoke tests, structured status output, and production-minded defaults.
 - **Developer experience**: clear command contracts, readable docs, small feedback loops, and GitHub-ready project packaging.
 - **Applied full stack systems**: Python, TypeScript, Go, Swift, Java, web frontends, desktop apps, and CI/CD workflows.
+
+---
+
+## Portfolio Views
+
+| Template | Link | Best for |
+| --- | --- | --- |
+| GitHub Style | [Open](https://checkmygit.com/can4hou6joeng4?template=github) | A familiar GitHub-like profile layout. |
+| Bento | [Open](https://checkmygit.com/can4hou6joeng4?template=bento) | A visual portfolio view for quick scanning. |
+| Minimal CV | [Open](https://checkmygit.com/can4hou6joeng4?template=minimal) | A compact resume-style profile. |
 
 ---
 
