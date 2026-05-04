@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Bobochang avatar</title>
+  <desc id="desc">A circular GitHub avatar for Bobochang's profile README.</desc>
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#2ea043"/>
+    </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="64" cy="64" r="56"/>
+    </clipPath>
+  </defs>
+  <circle cx="64" cy="64" r="61" fill="#0d1117"/>
+  <circle cx="64" cy="64" r="59" fill="none" stroke="url(#ring)" stroke-width="4"/>
+  <image x="8" y="8" width="112" height="112" href="data:image/jpeg;base64,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" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+</svg>

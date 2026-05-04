@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="./assets/avatar.png" alt="Bobochang avatar" width="96" />
+<img src="./assets/avatar-circle.svg" alt="Bobochang avatar" width="112" />
 
-# Hi, I'm Bobochang
+<img src="./assets/profile-heading.svg" alt="Hi, I'm Bobochang" width="520" />
 
 **AI Agent Developer** | **Full Stack Engineer** | **Open Source Maintainer**
 
 I build agent-first automation tools, CLI products, and practical developer workflows that turn repeated work into reliable systems.
 
-[![Interactive Portfolio](https://img.shields.io/badge/Interactive_Portfolio-CheckMyGit-0969da?style=for-the-badge&logo=github)](https://checkmygit.com/can4hou6joeng4?template=bento)
-[![Main Project](https://img.shields.io/badge/Main_Project-boss--agent--cli-238636?style=for-the-badge&logo=python)](https://github.com/can4hou6joeng4/boss-agent-cli)
-[![Blog](https://img.shields.io/badge/Tech_Blog-Juejin-1e80ff?style=for-the-badge)](https://juejin.cn/user/1187904004821262)
+[![Interactive Portfolio](https://img.shields.io/badge/Interactive_Portfolio-CheckMyGit-0969da?style=flat&logo=github)](https://checkmygit.com/can4hou6joeng4?template=bento)
+[![Main Project](https://img.shields.io/badge/Main_Project-boss--agent--cli-238636?style=flat&logo=python&logoColor=white)](https://github.com/can4hou6joeng4/boss-agent-cli)
+[![Blog](https://img.shields.io/badge/Tech_Blog-Juejin-1e80ff?style=flat)](https://juejin.cn/user/1187904004821262)
 
 <a href="https://checkmygit.com/can4hou6joeng4?template=bento">
-  <img src="./assets/checkmygit-bento-preview.svg" alt="Bobochang CheckMyGit Bento portfolio preview" width="860" />
+  <img src="./assets/checkmygit-bento-preview.svg" alt="Bobochang CheckMyGit Bento portfolio preview" width="820" />
 </a>
 
 </div>

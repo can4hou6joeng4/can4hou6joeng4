@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="72" viewBox="0 0 640 72" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Bobochang</title>
+  <desc id="desc">A profile heading for Bobochang's GitHub README.</desc>
+  <style>
+    .heading { fill: #24292f; }
+    @media (prefers-color-scheme: dark) {
+      .heading { fill: #f0f6fc; }
+    }
+  </style>
+  <text x="320" y="50" text-anchor="middle" class="heading" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="44" font-weight="800">Hi, I'm Bobochang</text>
+</svg>
