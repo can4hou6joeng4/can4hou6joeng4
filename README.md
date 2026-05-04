@@ -107,7 +107,7 @@ I build agent-first automation tools, CLI products, and practical developer work
 
 <div align="center">
 
-<img src="./assets/github-snapshot.svg" alt="Bobochang GitHub snapshot" width="100%" />
+<img src="./assets/github-snapshot.svg" alt="Bobochang GitHub snapshot" width="760" />
 
 </div>
 
