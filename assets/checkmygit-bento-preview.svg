@@ -60,7 +60,6 @@
 
     <rect x="580" y="128" width="212" height="104" rx="18" fill="url(#accent)"/>
     <text x="606" y="163" class="sans" fill="#ffffff" font-size="15" font-weight="760">Interactive portfolio</text>
-    <text x="606" y="197" class="sans" fill="#ffffff" font-size="22" font-weight="850">CheckMyGit</text>
-    <text x="606" y="222" class="sans" fill="#ffffff" font-size="22" font-weight="850">Bento</text>
+    <text x="606" y="205" class="sans" fill="#ffffff" font-size="25" font-weight="850">Open portfolio</text>
   </g>
 </svg>
