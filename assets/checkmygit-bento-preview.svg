@@ -46,8 +46,8 @@
 
     <rect x="340" y="0" width="212" height="104" rx="18" class="card"/>
     <text x="366" y="35" class="sans blue" font-size="15" font-weight="760">Main project</text>
-    <text x="366" y="69" class="sans text" font-size="23" font-weight="800">boss-agent-cli</text>
-    <text x="366" y="94" class="sans green" font-size="20" font-weight="800">160 stars</text>
+    <text x="366" y="69" class="sans text" font-size="21" font-weight="800">boss-agent-cli</text>
+    <text x="366" y="94" class="sans green" font-size="18" font-weight="800">160 stars</text>
 
     <rect x="580" y="0" width="212" height="104" rx="18" class="card"/>
     <text x="606" y="35" class="sans orange" font-size="15" font-weight="760">Open source</text>
@@ -60,6 +60,6 @@
 
     <rect x="580" y="128" width="212" height="104" rx="18" fill="url(#accent)"/>
     <text x="606" y="163" class="sans" fill="#ffffff" font-size="15" font-weight="760">Interactive portfolio</text>
-    <text x="606" y="205" class="sans" fill="#ffffff" font-size="25" font-weight="850">Open portfolio</text>
+    <text x="606" y="201" class="sans" fill="#ffffff" font-size="24" font-weight="850">Open portfolio</text>
   </g>
 </svg>
