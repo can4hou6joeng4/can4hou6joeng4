@@ -137,6 +137,4 @@ I build agent-first automation tools, CLI products, and practical developer work
 [![Juejin](https://img.shields.io/badge/Juejin-1E80FF?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/1187904004821262)
 [![View Portfolio](https://img.shields.io/badge/View_Portfolio-CheckMyGit-0969da?style=flat-square&logo=github&logoColor=white)](https://checkmygit.com/can4hou6joeng4?template=bento)
 
-![Profile Views](https://komarev.com/ghpvc/?username=can4hou6joeng4&color=0969da&style=flat)
-
 </div>
