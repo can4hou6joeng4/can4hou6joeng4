@@ -13,9 +13,9 @@
 I build agent-first automation tools, CLI products, and practical developer workflows that turn repeated work into reliable systems.
 
 <p>
-  <a href="https://checkmygit.com/can4hou6joeng4?template=bento"><img src="https://img.shields.io/badge/Interactive_Portfolio-CheckMyGit-0969da?style=flat&logo=github" alt="Interactive Portfolio" /></a>
-  <a href="https://github.com/can4hou6joeng4/boss-agent-cli"><img src="https://img.shields.io/badge/Main_Project-boss--agent--cli-238636?style=flat&logo=python&logoColor=white" alt="Main Project" /></a>
-  <a href="https://juejin.cn/user/1187904004821262"><img src="https://img.shields.io/badge/Tech_Blog-Juejin-1e80ff?style=flat" alt="Tech Blog" /></a>
+  <a href="https://checkmygit.com/can4hou6joeng4?template=bento"><img src="https://img.shields.io/badge/Interactive_Portfolio-CheckMyGit-0969da?style=flat-square&logo=github" alt="Interactive Portfolio" /></a>
+  <a href="https://github.com/can4hou6joeng4/boss-agent-cli"><img src="https://img.shields.io/badge/Main_Project-boss--agent--cli-238636?style=flat-square&logo=python&logoColor=white" alt="Main Project" /></a>
+  <a href="https://juejin.cn/user/1187904004821262"><img src="https://img.shields.io/badge/Tech_Blog-Juejin-1e80ff?style=flat-square" alt="Tech Blog" /></a>
 </p>
 
 <a href="https://checkmygit.com/can4hou6joeng4?template=bento">
@@ -96,16 +96,16 @@ I build agent-first automation tools, CLI products, and practical developer work
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -133,9 +133,9 @@ I build agent-first automation tools, CLI products, and practical developer work
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:can4hou6joeng4@163.com)
-[![Juejin](https://img.shields.io/badge/Juejin-1E80FF?style=flat&logo=juejin&logoColor=white)](https://juejin.cn/user/1187904004821262)
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-CheckMyGit-0969da?style=flat&logo=github&logoColor=white)](https://checkmygit.com/can4hou6joeng4?template=bento)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:can4hou6joeng4@163.com)
+[![Juejin](https://img.shields.io/badge/Juejin-1E80FF?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/1187904004821262)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-CheckMyGit-0969da?style=flat-square&logo=github&logoColor=white)](https://checkmygit.com/can4hou6joeng4?template=bento)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=can4hou6joeng4&color=0969da&style=flat)
 
