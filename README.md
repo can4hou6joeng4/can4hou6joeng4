@@ -23,4 +23,17 @@ I build agent-first automation tools, CLI products, and practical developer work
   <img src="./assets/checkmygit-bento-preview.svg" alt="Bobochang Portfolio Preview" width="820" />
 </a>
 
+## 🧭 The Fleet
+
+<em>One naming grammar — a single word, a single image, a single emoji. Independent tools that together sail as a fleet.</em>
+
+| Project | Image | What it does |
+| :-- | :-- | :-- |
+| [**🤖 boss-agent-cli**](https://github.com/can4hou6joeng4/boss-agent-cli) · ⭐ flagship | the agent | Local-assist BOSS Zhipin CLI for AI agents — keeps its PyPI name, not renamed |
+| [**⚓ Harbor**](https://github.com/can4hou6joeng4/Harbor) | harbor · dock &amp; keep | Local-first reading &amp; curation for macOS (Swift · SwiftUI) |
+| [**🗼 Beacon**](https://github.com/can4hou6joeng4/Beacon) | beacon · warn ahead | Light up expiring certificates — PDF certificate-expiry audit (Next.js + Cloudflare Workers) |
+| [**📊 Atlas**](https://github.com/can4hou6joeng4/Atlas) | chart · measure the voyage | Local AI-coding usage in the macOS menu bar — tokens, cost, sessions (Swift · SwiftUI) |
+
+<em>Harbor keeps what you read, Beacon warns before things expire, Atlas charts your AI-coding voyage.</em>
+
 </div>
