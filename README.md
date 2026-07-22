@@ -1,12 +1,6 @@
 <div align="center">
 
-<p>
-  <img src="./assets/avatar-circle.svg" alt="Bobochang avatar" width="120" />
-</p>
-
-<p>
-  <img src="./assets/profile-heading.svg" alt="Hi, I'm Bobochang" width="520" />
-</p>
+# Hi, I'm Bobochang 👋
 
 **AI Agent Developer** | **Full Stack Engineer** | **Open Source Maintainer**
 
@@ -19,21 +13,27 @@ I build agent-first automation tools, CLI products, and practical developer work
   <a href="https://juejin.cn/user/1187904004821262"><img src="https://img.shields.io/badge/Tech_Blog-Juejin-1e80ff?style=flat-square" alt="Tech Blog" /></a>
 </p>
 
-<a href="https://developer-portfolio-opal-six.vercel.app">
-  <img src="./assets/checkmygit-bento-preview.svg" alt="Bobochang Portfolio Preview" width="820" />
-</a>
-
 ## 🧭 The Fleet
 
 <em>One naming grammar — a single word, a single image, a single emoji. Independent tools that together sail as a fleet.</em>
 
+### ⭐ Flagship
+
+[**🤖 boss-agent-cli**](https://github.com/can4hou6joeng4/boss-agent-cli) — Local-assist BOSS Zhipin CLI built for AI agents: search, welfare filtering, shortlist, JSON-envelope output. 1.4k+ stars, low-risk & compliant by default.
+
+### ⛵ In Formation
+
 | Project | Image | What it does |
 | :-- | :-- | :-- |
-| [**🤖 boss-agent-cli**](https://github.com/can4hou6joeng4/boss-agent-cli) · ⭐ flagship | the agent | Local-assist BOSS Zhipin CLI for AI agents — keeps its PyPI name, not renamed |
-| [**⚓ Harbor**](https://github.com/can4hou6joeng4/Harbor) | harbor · dock &amp; keep | Local-first reading &amp; curation for macOS (Swift · SwiftUI) |
+| [**⚓ Harbor**](https://github.com/can4hou6joeng4/Harbor) | harbor · dock & keep | Local-first reading & curation for macOS (Swift · SwiftUI) |
 | [**🗼 Beacon**](https://github.com/can4hou6joeng4/Beacon) | beacon · warn ahead | Light up expiring certificates — PDF certificate-expiry audit (Next.js + Cloudflare Workers) |
 | [**📊 Atlas**](https://github.com/can4hou6joeng4/Atlas) | chart · measure the voyage | Local AI-coding usage in the macOS menu bar — tokens, cost, sessions (Swift · SwiftUI) |
+| [**🌊 Tide**](https://github.com/can4hou6joeng4/Tide) | tide · punctual as the sea | Daily Juejin check-in with lottery draws & Telegram reports (Playwright + GitHub Actions) |
+| [**🚩 Semaphore**](https://github.com/can4hou6joeng4/Semaphore) | flag signals · image to characters | Turn any image into ASCII art, right in your browser — no upload, no account (Vite + TypeScript) |
+| [**🎣 Trawl**](https://github.com/can4hou6joeng4/Trawl) | trawl · haul it all in | Desktop forensics bench that nets stacks of legal documents into structured data (Wails + Go + Vue) |
+| [**🛟 Buoy**](https://github.com/can4hou6joeng4/Buoy) | buoy · surface on schedule | AnyRouter multi-account auto check-in with notifications & privacy masking (Python + GitHub Actions) |
+| [**🛥️ landing-craft**](https://github.com/can4hou6joeng4/landing-craft) | landing craft · hit the beach | Claude Code skill that ships landing pages with 57 city-inspired design systems (GSAP) |
 
-<em>Harbor keeps what you read, Beacon warns before things expire, Atlas charts your AI-coding voyage.</em>
+<em>Harbor keeps what you read, and Beacon warns before it expires. Atlas charts the voyage while Tide and Buoy surface on schedule to report in. Semaphore signals images into characters, Trawl hauls documents up as data, and landing-craft puts your pages ashore — each sails alone, but they move as one fleet.</em>
 
 </div>
