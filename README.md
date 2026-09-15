@@ -21,26 +21,37 @@ Guangzhou, China
 
 ### 🤖 [boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli)
 
-A local-assist BOSS Zhipin CLI built for AI-agent workflows. It searches roles, filters by welfare signals, creates reviewable shortlists, and returns structured JSON-envelope output with low-risk, compliant defaults.
+`Python` `CLI` `AI Agents` `Local Assist`
 
-- Search and refine job opportunities from the command line.
-- Apply welfare filters and keep candidate lists reviewable.
-- Exchange structured results with agents without hiding the underlying evidence.
+A local-assist BOSS Zhipin CLI that turns job discovery into a structured, reviewable workflow for people and AI agents.
+
+**Capabilities:** `Search` · `Welfare filters` · `Shortlists` · `JSON envelope`
+
+> Designed around explicit evidence, human review, and low-risk, compliant defaults.
 
 [Repository](https://github.com/can4hou6joeng4/boss-agent-cli) · [Documentation](https://can4hou6joeng4.github.io/boss-agent-cli/) · [Latest release](https://github.com/can4hou6joeng4/boss-agent-cli/releases/latest)
 
 ## Selected Open Source Projects
 
-| Project | What it does | Explore |
-| --- | --- | --- |
-| ⌚ [Watch](https://github.com/can4hou6joeng4/Watch) | Hands local coding-agent sessions between Claude Code, Codex, OpenCode, Kimi, and Pi while preserving the working directory. | [Website](https://relay.bobochang.cn) |
-| 🐋 [Sonar](https://github.com/can4hou6joeng4/Sonar) | A minimal native iOS music player focused on search, favorites, and uninterrupted listening. | [Repository](https://github.com/can4hou6joeng4/Sonar) |
-| 🚩 [Semaphore](https://github.com/can4hou6joeng4/Semaphore) | Converts images into ASCII or Unicode braille art entirely in the browser, without uploads or accounts. | [Try it](https://semaphore.bobochang.cn) |
-| 🗺️ [Atlas](https://github.com/can4hou6joeng4/Atlas) | Tracks AI coding sessions, token usage, cost, and Git activity in a native macOS menu-bar app. | [Website](https://can4hou6joeng4.github.io/Atlas/) |
-| ⚓ [Harbor](https://github.com/can4hou6joeng4/Harbor) | A local-first macOS RSS and read-later app that keeps reading data on the device. | [Repository](https://github.com/can4hou6joeng4/Harbor) |
-| 🗼 [Beacon](https://github.com/can4hou6joeng4/Beacon) | Audits PDF certificates for expiry dates and turns review results into an actionable workflow. | [Try it](https://pdf-audit.bobochang.cn) |
-| 🎣 [Trawl](https://github.com/can4hou6joeng4/Trawl) | A desktop document-forensics tool for extracting structured data from batches of legal documents. | [Latest release](https://github.com/can4hou6joeng4/Trawl/releases/latest) |
-| 🧭 [Homeport](https://github.com/can4hou6joeng4/Homeport) | Source and publishing workflow for my personal website and writing. | [Website](https://bobochang.cn) |
+### Agent Systems
+
+- **⌚ [Watch](https://github.com/can4hou6joeng4/Watch)** · `TypeScript` `macOS` `Agent Handoff`<br>Hands local coding-agent sessions between Claude Code, Codex, OpenCode, Kimi, and Pi while preserving the working directory.<br>[Source](https://github.com/can4hou6joeng4/Watch) · [Website](https://relay.bobochang.cn)
+- **🗺️ [Atlas](https://github.com/can4hou6joeng4/Atlas)** · `Swift` `macOS` `Usage Analytics`<br>Tracks AI coding sessions, token usage, cost, and Git activity in a native menu-bar application.<br>[Source](https://github.com/can4hou6joeng4/Atlas) · [Project site](https://can4hou6joeng4.github.io/Atlas/)
+
+### Native Applications
+
+- **🐋 [Sonar](https://github.com/can4hou6joeng4/Sonar)** · `SwiftUI` `iOS` `Music`<br>A minimal native music player focused on search, favorites, and uninterrupted listening.<br>[Source](https://github.com/can4hou6joeng4/Sonar)
+- **⚓ [Harbor](https://github.com/can4hou6joeng4/Harbor)** · `Swift` `macOS` `Local First`<br>An RSS and read-later application that keeps reading data on the device.<br>[Source](https://github.com/can4hou6joeng4/Harbor) · [Latest release](https://github.com/can4hou6joeng4/Harbor/releases/latest)
+
+### Browser & Cloud Tools
+
+- **🚩 [Semaphore](https://github.com/can4hou6joeng4/Semaphore)** · `TypeScript` `Browser` `Local Processing`<br>Converts images into ASCII or Unicode braille art entirely in the browser, without uploads or accounts.<br>[Source](https://github.com/can4hou6joeng4/Semaphore) · [Open app](https://semaphore.bobochang.cn)
+- **🗼 [Beacon](https://github.com/can4hou6joeng4/Beacon)** · `TypeScript` `Next.js` `PDF Audit`<br>Audits PDF certificates for expiry dates and turns review results into an actionable workflow.<br>[Source](https://github.com/can4hou6joeng4/Beacon) · [Open app](https://pdf-audit.bobochang.cn)
+
+### Documents & Publishing
+
+- **🎣 [Trawl](https://github.com/can4hou6joeng4/Trawl)** · `Go` `Vue` `Wails`<br>A desktop document-forensics tool for extracting structured data from batches of legal documents.<br>[Source](https://github.com/can4hou6joeng4/Trawl) · [Latest release](https://github.com/can4hou6joeng4/Trawl/releases/latest)
+- **🧭 [Homeport](https://github.com/can4hou6joeng4/Homeport)** · `JavaScript` `Website` `Publishing`<br>Source and publishing workflow for my personal website and technical writing.<br>[Source](https://github.com/can4hou6joeng4/Homeport) · [Website](https://bobochang.cn)
 
 ## Writing
 
