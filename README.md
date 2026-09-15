@@ -42,16 +42,12 @@ A local-assist BOSS Zhipin CLI that turns job discovery into a structured, revie
 
 - **🐋 [Sonar](https://github.com/can4hou6joeng4/Sonar)** · `SwiftUI` `iOS` `Music`<br>A minimal native music player focused on search, favorites, and uninterrupted listening.<br>[Source](https://github.com/can4hou6joeng4/Sonar)
 - **⚓ [Harbor](https://github.com/can4hou6joeng4/Harbor)** · `Swift` `macOS` `Local First`<br>An RSS and read-later application that keeps reading data on the device.<br>[Source](https://github.com/can4hou6joeng4/Harbor) · [Latest release](https://github.com/can4hou6joeng4/Harbor/releases/latest)
+- **🎣 [Trawl](https://github.com/can4hou6joeng4/Trawl)** · `Go` `Vue` `Wails`<br>A desktop document-forensics tool for extracting structured data from batches of legal documents.<br>[Source](https://github.com/can4hou6joeng4/Trawl) · [Latest release](https://github.com/can4hou6joeng4/Trawl/releases/latest)
 
 ### Browser & Cloud Tools
 
 - **🚩 [Semaphore](https://github.com/can4hou6joeng4/Semaphore)** · `TypeScript` `Browser` `Local Processing`<br>Converts images into ASCII or Unicode braille art entirely in the browser, without uploads or accounts.<br>[Source](https://github.com/can4hou6joeng4/Semaphore) · [Open app](https://semaphore.bobochang.cn)
 - **🗼 [Beacon](https://github.com/can4hou6joeng4/Beacon)** · `TypeScript` `Next.js` `PDF Audit`<br>Audits PDF certificates for expiry dates and turns review results into an actionable workflow.<br>[Source](https://github.com/can4hou6joeng4/Beacon) · [Open app](https://pdf-audit.bobochang.cn)
-
-### Documents & Publishing
-
-- **🎣 [Trawl](https://github.com/can4hou6joeng4/Trawl)** · `Go` `Vue` `Wails`<br>A desktop document-forensics tool for extracting structured data from batches of legal documents.<br>[Source](https://github.com/can4hou6joeng4/Trawl) · [Latest release](https://github.com/can4hou6joeng4/Trawl/releases/latest)
-- **🧭 [Homeport](https://github.com/can4hou6joeng4/Homeport)** · `JavaScript` `Website` `Publishing`<br>Source and publishing workflow for my personal website and technical writing.<br>[Source](https://github.com/can4hou6joeng4/Homeport) · [Website](https://bobochang.cn)
 
 ## Writing
 
