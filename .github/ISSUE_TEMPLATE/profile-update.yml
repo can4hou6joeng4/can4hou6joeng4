@@ -1,0 +1,20 @@
+name: Profile update
+description: Suggest a correction or improvement for the GitHub profile README.
+title: "Profile update: "
+labels:
+  - documentation
+body:
+  - type: textarea
+    id: change
+    attributes:
+      label: Suggested change
+      description: Describe what should be corrected or improved.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why it helps
+      description: Explain why the change makes the profile clearer, safer, or more accurate.
+    validations:
+      required: true
