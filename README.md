@@ -36,12 +36,10 @@ A local-assist BOSS Zhipin CLI that turns job discovery into a structured, revie
 ### Agent Systems
 
 - **⌚ [Watch](https://github.com/can4hou6joeng4/Watch)** · `TypeScript` `macOS` `Agent Handoff`<br>Hands local coding-agent sessions between Claude Code, Codex, OpenCode, Kimi, and Pi while preserving the working directory.<br>[Source](https://github.com/can4hou6joeng4/Watch) · [Website](https://relay.bobochang.cn)
-- **🗺️ [Atlas](https://github.com/can4hou6joeng4/Atlas)** · `Swift` `macOS` `Usage Analytics`<br>Tracks AI coding sessions, token usage, cost, and Git activity in a native menu-bar application.<br>[Source](https://github.com/can4hou6joeng4/Atlas) · [Project site](https://can4hou6joeng4.github.io/Atlas/)
 
 ### Native Applications
 
 - **🐋 [Sonar](https://github.com/can4hou6joeng4/Sonar)** · `SwiftUI` `iOS` `Music`<br>A minimal native music player focused on search, favorites, and uninterrupted listening.<br>[Source](https://github.com/can4hou6joeng4/Sonar)
-- **⚓ [Harbor](https://github.com/can4hou6joeng4/Harbor)** · `Swift` `macOS` `Local First`<br>An RSS and read-later application that keeps reading data on the device.<br>[Source](https://github.com/can4hou6joeng4/Harbor) · [Latest release](https://github.com/can4hou6joeng4/Harbor/releases/latest)
 - **🎣 [Trawl](https://github.com/can4hou6joeng4/Trawl)** · `Go` `Vue` `Wails`<br>A desktop document-forensics tool for extracting structured data from batches of legal documents.<br>[Source](https://github.com/can4hou6joeng4/Trawl) · [Latest release](https://github.com/can4hou6joeng4/Trawl/releases/latest)
 
 ### Browser & Cloud Tools
